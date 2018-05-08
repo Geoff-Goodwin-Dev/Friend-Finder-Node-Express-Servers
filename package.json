@@ -1,0 +1,19 @@
+{
+  "name": "friend-finder-node-express-servers",
+  "version": "1.0.0",
+  "description": "A friend finder app that prompts user to take a 'personality quiz' and matches them to compatible people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geoff-Goodwin-Dev/Friend-Finder-Node-Express-Servers.git"
+  },
+  "author": "Geoff Goodwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geoff-Goodwin-Dev/Friend-Finder-Node-Express-Servers/issues"
+  },
+  "homepage": "https://github.com/Geoff-Goodwin-Dev/Friend-Finder-Node-Express-Servers#readme"
+}
