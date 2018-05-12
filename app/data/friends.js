@@ -1,6 +1,6 @@
 const friendsArray = [{
   "name":"Ahmed",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "photo":"https://goo.gl/images/ii3Wti",
   "scores":[
     5,
     1,
