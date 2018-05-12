@@ -1,6 +1,6 @@
 const friendsArray = [{
   "name":"Ahmed",
-  "photo":"https://goo.gl/images/ii3Wti",
+  "photo":"http://simpleicon.com/wp-content/uploads/smile.png",
   "scores":[
     5,
     1,
