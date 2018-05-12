@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Geoff-Goodwin-Dev/Friend-Finder-Node-Express-Servers/issues"
   },
-  "homepage": "https://github.com/Geoff-Goodwin-Dev/Friend-Finder-Node-Express-Servers#readme"
+  "homepage": "https://github.com/Geoff-Goodwin-Dev/Friend-Finder-Node-Express-Servers#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
 }
